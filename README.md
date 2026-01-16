@@ -1,3 +1,19 @@
+# ⚠️ **Important Disclaimer** ⚠️
+
+This project involves experiments on **behavioral and activation steering in large language models**.
+
+Some prompts, examples or generated outputs used during experimentation may contain **offensive, sensitive or otherwise inappropriate language**.  
+Such content appears **strictly as part of controlled experimental setups** and is **necessary to study and evaluate steering mechanisms**.
+
+**These examples do not reflect the personal views, beliefs or opinions of the author in any way.**  
+They are included solely for academic and technical purposes, in line with the objectives of the course and the scope of the project.
+
+_**The author explicitly disavows any endorsement of harmful, discriminatory or offensive content**_.
+
+---
+---
+
+
 # 🧭 LLM Steering (NLP Project)
 
 This repository contains a project developed for a **Natural Language Processing (NLP)** course, focused on **steering the behavior of large language models** through internal representations and activation based methods.
